@@ -1,0 +1,38 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+  height: 400px; /* Should be removed. Only for demonstration */
+}
+.column p {
+  padding: 70px 0;
+}
+
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.small {
+	font-size: small;
+}
+
+.smaller {
+	font-size: smaller;
+}
+
+.question {
+	font-size: 100px;
+	font-weight: bold;
+	text-align: center;
+}
+</style>
