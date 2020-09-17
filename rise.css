@@ -35,4 +35,11 @@
 	font-weight: bold;
 	text-align: center;
 }
+
+.important {
+	font-size: 150px;
+	font-weight: bold;
+	text-align: center;
+	color: red;
+}
 </style>
