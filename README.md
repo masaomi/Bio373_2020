@@ -35,6 +35,7 @@ $ git pull
 13.00-17.00| **Final practice** (Please refer to the file saved in OLAT for the final practice link)
 
 * Mock exam: https://git.io/JUicl
+* Answer: https://git.io/JUicz
 
 ## References
 
